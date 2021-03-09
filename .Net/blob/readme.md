@@ -23,6 +23,8 @@ dotnet add package Azure.Storage.Blobs
 
 4. Please remember to **"restart"** VSCode or **"reopen"** command line windows after using **setx** or **export**
 
+5. When running the compiled .exe file you will need a data directory
+
 ### Changes
 
 Made some changes with regards to Container names and the like
